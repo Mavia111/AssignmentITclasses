@@ -1,0 +1,14 @@
+console.log("My Assignment");
+console.log("Variables with different types");
+var fname = "Mavia";
+var contact = 923225312580;
+var activate = true;
+console.log(fname);
+console.log("+" + contact);
+console.log(activate);
+fname = "Ali";
+contact = 923225315595;
+activate = true;
+console.log(fname);
+console.log("+" + contact);
+console.log(activate);
